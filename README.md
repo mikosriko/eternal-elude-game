@@ -1,2 +1,2 @@
 # eternal-elude-game
-Simply run the ".exe" file to play the game! :)
+Simply run "Eternal Elude (Test).exe" to play the game! :)
